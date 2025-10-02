@@ -87,7 +87,3 @@ plt.show()
 * Learned difference between **histogram** (continuous data) and **bar chart** (categorical data).
 
 ---
-
-
-
-Do you want me to also **create the bar_chart.py file** for you (so you’ll have both histogram and bar chart in the repo), or do you want to keep only the histogram for now?
